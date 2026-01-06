@@ -1,5 +1,7 @@
 title: "Muyuan He"
 theme: jekyll-theme-minimal
+logo: /profile.jpg
+description: "Physics PhD — Neutrinos, NOvA & DUNE"
 header_pages:
   - index.md
   - research.md
