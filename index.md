@@ -8,7 +8,6 @@ author_profile: true
 ---
 
 
-# ![Muyuan He](/assets/images/profile.JPG){: .align-left width="300" style="margin-right: 2rem; margin-bottom: 1rem;" }
 <img src="/assets/images/profile.JPG" alt="Muyuan He" style="max-width:260px; height:auto; margin-right:30px;">
 
 
