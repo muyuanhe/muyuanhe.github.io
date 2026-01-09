@@ -13,6 +13,8 @@ author_profile: true
 
 I am a Ph.D. graduate (2019–2025) in the Department of Physics at the University of Houston, advised by Prof. Lisa Whitehead Koerner. My research focuses on neutrino oscillation physics, simulation, detector reconstruction, and beyond–Standard Model searches.
 
+Prior to University of Houston, I obtained my B.S. from department of physics, University of California, Irvine. (2015-2019), advised by Prof. Jianming Bian. 
+
 ## NOvA Experiment
 I am a member of the **NOvA (NuMI Off-Axis νe Appearance)** experiment, Fermilab’s long-baseline accelerator neutrino experiment optimized for electron-neutrino measurements. NOvA uses the upgraded NuMI beam and measures νe appearance and νμ disappearance at its Far Detector in Ash River, Minnesota, with the goal of resolving the neutrino mass ordering and constraining the CP-violating phase.
 
