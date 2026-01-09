@@ -1,5 +1,8 @@
 title: "Muyuan He"
 theme: jekyll-include-cache
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+   - jekyll-include-cache
 logo: /image.png
 description: "Physics PhD — Neutrinos, NOvA & DUNE"
 # header_pages:
