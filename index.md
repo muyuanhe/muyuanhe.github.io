@@ -2,10 +2,6 @@
 title: ""
 layout: single
 author_profile: true
-header:
-  overlay_image: /image.png
-  overlay_filter: 0.7
-  show_overlay_excerpt: false
 ---
 
 # Muyuan He
