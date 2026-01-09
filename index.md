@@ -6,7 +6,8 @@ author_profile: true
 
 ---
 
-![Muyuan He](/assets/images/profile.JPG){: .align-left width="320" }
+
+![Muyuan He](/assets/images/profile.JPG){: .align-left width="300" style="margin-right: 2rem; margin-bottom: 1rem;" }
 
 
 I am a Ph.D. graduate (2019–2025) in the Department of Physics at the University of Houston, advised by Prof. Lisa Whitehead Koerner. My research focuses on neutrino oscillation physics, simulation, detector reconstruction, and beyond–Standard Model searches.
