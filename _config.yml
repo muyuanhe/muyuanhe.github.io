@@ -3,17 +3,13 @@ theme: jekyll-include-cache
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
    - jekyll-include-cache
-logo: /image.png
-description: "Physics PhD — Neutrinos, NOvA & DUNE"
-# header_pages:
-#   - index.md
-#   - Research.md
-#   - cv.pdf
-#   - Teaching.md
-# title: "Muyuan He"
-# description: "Physics PhD — Neutrinos, NOvA & DUNE"
 # logo: /image.png
+description: "Physics PhD — Neutrinos, NOvA & DUNE"
 
-# remote_theme: "mmistakes/minimal-mistakes"
-# plugins:
-#   - jekyll-include-cache
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
