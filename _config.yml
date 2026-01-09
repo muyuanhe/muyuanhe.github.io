@@ -4,5 +4,5 @@ logo: /image.png
 description: "Physics PhD — Neutrinos, NOvA & DUNE"
 header_pages:
   - index.md
-  - research.md
+  - Research.md
   - cv.md
