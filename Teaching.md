@@ -1,1 +1,6 @@
-The teaching section is under construction
+---
+layout: default
+title: Teaching
+---
+
+## Teaching
