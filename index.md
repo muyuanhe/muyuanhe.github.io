@@ -2,6 +2,7 @@
 title: ""
 layout: single
 classes: wide
+sidebar: false
 author_profile: true
 
 ---
