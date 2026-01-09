@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Home
+title: ""
+layout: single
+author_profile: true
 ---
 
 # Muyuan He
