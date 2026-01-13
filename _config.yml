@@ -6,6 +6,10 @@ plugins:
 # logo: /image.png
 description: "Physics PhD — Neutrinos, NOvA & DUNE"
 
+markdown: kramdown
+kramdown:
+  input: GFM
+  
 defaults:
   - scope:
       path: ""
