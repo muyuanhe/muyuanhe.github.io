@@ -4,5 +4,21 @@ title: Research
 permalink: /research/
 ---
 
-## Research
-Currently under construction...
+## Selected Technical Projects
+
+### Atmospheric Flux Systematics for DUNE MaCh3
+
+I developed atmospheric flux systematic modeling tools for DUNE atmospheric neutrino analyses within the MaCh3 framework. This work included spline-based uncertainty parameterization, event-level flux weighting, and integration of atmospheric systematic effects into downstream NSI sensitivity studies.
+
+My contributions focused on connecting detector- and flux-level modeling to Bayesian oscillation fits, allowing realistic propagation of atmospheric flux uncertainties into MaCh3-based inference.
+
+**Key technical components**
+- Implemented atmospheric flux systematics in `MaCh3_DUNE`
+- Developed spline-based event weighting for atmospheric samples
+- Extended analysis workflows for atmospheric NSI sensitivity studies
+
+**Code links**
+- [Atmospherics tools: flux systematics branch](https://github.com/DUNE/atmospherics-tools/tree/muyuanh-flux-systematics)
+- [MaCh3_DUNE: atmospheric flux systematics](https://github.com/DUNE/MaCh3_DUNE/tree/muyuanh/feature/atmfluxsystematics)
+- [MaCh3_DUNE: atmospheric spline weights](https://github.com/DUNE/MaCh3_DUNE/tree/muyuanh/feature/atmflux-spline-weight)
+- [MaCh3_DUNE: atmospheric NSI](https://github.com/DUNE/MaCh3_DUNE/tree/muyuanh/feature/atmflux_NSI)
