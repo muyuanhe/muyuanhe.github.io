@@ -35,7 +35,6 @@ I developed software and configuration workflows supporting the first full atmos
 - Contributed trigger-related development for NNBar DDT grid workflows relevant to atmospheric-event selection studies
 
 **Code references**
-- [Atmospheric MC development branch](https://github.com/novaexperiment/novasoft/tree/muyuanh/atm-mc-dev)
-- [NNBar DDT grid branch](https://github.com/novaexperiment/novasoft/tree/feature/muyuanh/nnbar-ddt-grid)
+Code development for this work was carried out in the NOvA collaboration’s private novasoft repository, including atmospheric MC development and NNBar DDT grid-related workflows, cut and selection efficiency, purity improvement and fitting setup.
 
 This infrastructure work supported my broader NOvA atmospheric program, where realistic simulation, trigger studies, cosmic-background rejection, and downstream reconstruction all had to function together before oscillation analyses could be attempted.
