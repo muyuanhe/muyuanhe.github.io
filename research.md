@@ -8,7 +8,7 @@ permalink: /research/
 
 ### Rice University Nuclear and Particle Physics Seminar: Atmospheric Neutrinos as a Probe of New Physics
 Public version of my Rice University seminar slides covering NOvA atmospheric analysis development and DUNE atmospheric NSI sensitivity studies.
-[Download slides (PDF)]({{ "assets/images/Rice_talk.pdf" | relative_url }})
+[Download slides (PDF)]({{ "assets/images/Rice_talk_pdf.pdf" | relative_url }})
 
 ## Selected Technical Projects
 
