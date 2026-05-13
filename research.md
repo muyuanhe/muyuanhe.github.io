@@ -6,9 +6,15 @@ permalink: /research/
 
 ## Selected Talks
 
-### Rice University Nuclear and Particle Physics Seminar: Atmospheric Neutrinos as a Probe of New Physics
+### Rice University Nuclear and Particle Physics Seminar: Atmospheric Neutrinos as a Probe of New Physics, May 1st 2026
 Public version of my Rice University seminar slides covering NOvA atmospheric analysis development and DUNE atmospheric NSI sensitivity studies.
 [Download slides (PDF)]({{ "assets/images/Rice_talk_pdf.pdf" | relative_url }})
+
+### Fermilab New Perspectives Conference: Atmospheric Neutrino Analysis in NOvA, July 2025
+Internal version of my talk uploaded to NOVA Document 66879-v2
+
+### APS (Texas sector) Conference: NOvA Atmospheric Neutrino Studies, 2025
+
 
 ## Selected Technical Projects
 
