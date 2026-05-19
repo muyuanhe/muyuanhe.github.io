@@ -16,3 +16,4 @@ permalink: /teaching/
 |---|---|---|---|
 | Undergraduate | Spring 2025 - Fall 2025 | Seaver Chester | OscProb utilization for neutrino oscillation |
 | Undergraduate | Fall 2025 | Abigail Hancock | Neutrino oscillation modeling for two-neutrino flavors |
+| Graduate      | Fall 2025 - Spring 2026 | Tai Huynh | Atmospheric neutrino vertex reconstruction algorithm improvement |
